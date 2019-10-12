@@ -85,6 +85,9 @@ echo $me "       ¶¶¶¶                                  ¶¶¶¶        "
 sleep 0.03
 echo $me ""
 echo $me ""
+clear
+toilet -f bigmono9 -F gay Nicoleus Sitorus
+sleep 1
 echo $cy "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 echo $i "                  HORAS HITA SUDE!!!"
 echo $i "CREATOR  : Nicoleus Sitorus"
@@ -238,7 +241,7 @@ fi
 if [ $pil = 12 ]
 then
 clear
-figlet -f slant "E X I T"|lolcat
+figlet -f slant "E X I T LAE KU"|lolcat
 sleep 2
 echo $cy"Thanks for use my script"
 sleep 2
